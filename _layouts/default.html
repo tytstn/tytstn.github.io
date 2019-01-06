@@ -38,13 +38,7 @@
       {{ content }}
         {% for post in site.posts %}
     <article>
-      <h1 class="project-name">
-        <a href="
-        //{{ post.content }}//
-        {{ 2019-01-04-firstpost }}
-        "> {{ Title of Our First Post }}
-        </a>
-      </h1>
+        {{ post.content }}
       - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     </article>
       
