@@ -1,6 +1,6 @@
 # Weekly Blog
 
-## Project A
+## [Project A](_posts/_projecta/projectalist.md)
 
 ## Project B
 
