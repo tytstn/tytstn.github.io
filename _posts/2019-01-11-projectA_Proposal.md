@@ -12,9 +12,22 @@
 <br>A basic knowledge of 
 - After Effect
 - HTML
+- Illustrator
 - Javascript
  
 
 **Link to download bodymovin plugin**
 - [Bodymovin Plugin](https://aescripts.com/bodymovin/)
 
+**List of deliverables**
+- 2019-01-11
+<br> - Proposal submission
+- Bodymovin plugin installation
+- 2019-01-18
+<br>Prepare a graphic in Illustrator for an animation.
+- 2019-01-25
+<br>Animate a graphic and render an animation.
+- 2019-02-01
+<br>Generate an animation into .json file by using plugin and code it on HTML.
+- 2019-02-08
+<br>A Tutorial submission.
