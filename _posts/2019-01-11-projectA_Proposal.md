@@ -1,6 +1,6 @@
 # Project A Proposal
 *2019-01-11*
-**Rendering an After Effect animation in the browser on svg, canvas and html by using bodymovin plugin.**
+<br>**Rendering an After Effect animation in the browser on svg, canvas and html by using bodymovin plugin.**
 
 **Description**
 <br>A bodymovin plugin is an extension for After Effect that offer the tool for generating the animation into .json file. Then users are able to manipulate the code to create the After Effect animation on svg, canvas and html.
