@@ -5,6 +5,15 @@
 
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display|Raleway:400,400i,700,700i');
 
+header{
+  font-family:'Playfair Display', serif;
+}
+
+main{
+  font-family:'Raleway', sans-serif;
+}
+
+
 .page-header{
   background-color:#FF7043;
   background-image:linear-gradient(90deg, #FF7043, #7E57C2);
