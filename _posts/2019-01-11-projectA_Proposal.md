@@ -1,5 +1,5 @@
 # Project A Proposal
-* *2019-01-11* *
+*2019-01-11*
 **Rendering an After Effect animation in the browser on svg, canvas and html by using bodymovin plugin.**
 
 **Description**
