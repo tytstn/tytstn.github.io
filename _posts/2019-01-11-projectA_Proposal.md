@@ -21,7 +21,7 @@
 
 **List of deliverables**
 - 2019-01-11	
-	- Proposal submission
+	- A Proposal submission
 	- Bodymovin plugin installation
 - 2019-01-18
 	- Prepare a graphic in Illustrator for an animation.
