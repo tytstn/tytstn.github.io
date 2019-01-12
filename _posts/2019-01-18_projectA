@@ -2,3 +2,7 @@
 ## Rendering an After Effect animation in the browser on svg, canvas and html by using bodymovin plugin
 ## Prepare a graphic in Illustrator
 *2019-01-18*
+
+Using Illustrator for creating the graphic elements and managing the layers of it.
+Manageing the layers will help users to animate easily on After Effect.
+![PrepareGraphic](/images/prepare_graphic.jpg)
