@@ -30,4 +30,5 @@
 - 2019-02-01
 	- Generate an animation into .json file by using plugin and code it on HTML
 - 2019-02-08
+	- Display an animation in the browser
 	- A Tutorial submission
