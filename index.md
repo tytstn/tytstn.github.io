@@ -9,7 +9,7 @@
 - [2019-02-08 A tutorial submission](_posts/2019-02-08-projectA.md)
 
 **Project B**
-- 2019-02-15 Proposal
+- [2019-02-15 Proposal](_posts/2019-02-15-projectB_Proposal.md) 
 - 2019-02-22
 - 2019-03-01
 - 2019-03-08
