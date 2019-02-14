@@ -3,7 +3,7 @@
 <br>**Generating a chart through Rechart for data visualization web application.**
 
 **Description**
-<br>According to my team project for project 2 course, my team decided to do web application for people who need a tool to help them plan their meals with individual dietary needs which it is called “SelfNourish”. Moreover, our team project would have to display some data from the database as a chart. Consequently, we decided to use rechart for our web application.
+<br>According to my team project for project 2 course, my team decided to do web application for people who need a tool to help them plan their meals with individual dietary needs which it is called “SelfNourish”. Moreover, our team project would have to display some data from the datasets as a chart. Consequently, we decided to use rechart for our web application.
 	
 **Objective**
 <br>To create and manipulate a chart through rechart for showing on a web application.
