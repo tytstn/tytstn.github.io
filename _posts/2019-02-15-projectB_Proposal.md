@@ -17,7 +17,7 @@
 - 2019-01-15	
 	- A Proposal submission
 - 2019-03-01
-	- Some example charts 
+	- Creating React App and Recharts Installation 
 - 2019-03-08
 	- Some example charts 
 - 2019-03-15
