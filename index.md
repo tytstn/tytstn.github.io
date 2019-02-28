@@ -10,6 +10,6 @@
 
 **Project B**
 - [2019-02-15 Proposal](_posts/2019-02-15-projectB_Proposal.md) 
-- 2019-03-01
+- [2019-03-01 Creating React App and Recharts Installation](_posts/2019-03-01-projectB.md)
 - 2019-03-08
 - 2019-03-15
