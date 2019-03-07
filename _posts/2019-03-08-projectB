@@ -1,0 +1,14 @@
+# Project B
+## Generating a chart through Rechart for data visualization web application
+## Customizing the chart
+*2019-03-08*
+
+This week, I am working on my-chart.js file to adjust the visual look for the chart which is text and colours of the charts.
+I run into the issue that I can not change the colours for each section of the piechart at fist.
+I did change the colours in render section which changed the colour for the whole chart. However, I could not find the tutorial for it.
+I asked the developer in my team project for solving the issue so she helped me to fix it by going to const data section
+after each nutrient put fill: and the colour that I would like to change for the chart.
+
+Reference: Marcia Emi Isejima, https://github.com/recharts/recharts , https://facebook.github.io/create-react-app/
+
+## Next week task : Preapare the presentation
